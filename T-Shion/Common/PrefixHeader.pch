@@ -1,0 +1,67 @@
+//
+//  PrefixHeader.pch
+//  T-Shion
+//
+//  Created by together on 2018/3/20.
+//  Copyright © 2018年 With_Dream. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Common.h"
+
+@import ReactiveObjC;
+@import SDWebImage;
+@import MJRefresh;
+@import MJExtension;
+@import AFNetworking;
+@import MBProgressHUD;
+@import Masonry;
+@import CocoaAsyncSocket;
+@import FMDB;
+@import YYText;
+//@import Qiniu;
+
+
+#import <IQKeyboardManager/IQKeyboardManager.h>
+
+#pragma mark Category
+#import "MBProgressHUD+Category.h"
+#import "UIView+Extension.h"
+#import "NSDate+AL.h"
+#import "UIColor+AL.h"
+#import "UIImage+AL.h"
+#import "UIFont+AL.h"
+#import "UILabel+AL.h"
+
+#import "TSButton.h"
+#import "FMDBManager+Friend.h"
+#import "FMDBManager+Message.h"
+#import "FMDBManager+UserInfo.h"
+#import "FMDBManager+GroupList.h"
+#import "FMDBManager+GroupMessage.h"
+#import "FMDBManager+Conversation.h"
+#import "FMDBManager+KickUser.h"
+#import "TSRequest+Api.h"
+#import "NSString+AL.h"
+#import "NSString+Storage.h"
+#import "NSString+Crypt.h"
+#import "RSA.h"
+#import "NSMutableArray+Extension.h"
+
+#pragma mark 头文件
+#import "BaseNavigationViewController.h"
+#import "TShionSingleCase.h"
+#import "SocketViewModel.h"
+#import "RequestModel.h"
+#import "FMDBManager.h"
+#import "BaseTableView.h"
+#import "ALAlertView.h"
+#import "APICommon.h"
+
+#import "NSObject+Common.h"
+
+#endif /* PrefixHeader_pch */

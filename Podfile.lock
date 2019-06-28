@@ -1,0 +1,170 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AxolotlKit (0.9.0):
+    - CocoaLumberjack
+    - Curve25519Kit (~> 2.1.0)
+    - HKDFKit (~> 0.0.3)
+    - SignalCoreKit
+    - SwiftProtobuf
+  - Bugly (2.5.0)
+  - CocoaAsyncSocket (7.6.3)
+  - CocoaLumberjack (3.5.3):
+    - CocoaLumberjack/Core (= 3.5.3)
+  - CocoaLumberjack/Core (3.5.3)
+  - Curve25519Kit (2.1.0):
+    - CocoaLumberjack
+    - SignalCoreKit
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.7.0):
+    - GoogleMaps (= 2.7.0)
+    - GooglePlaces (= 2.7.0)
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - GoogleWebRTC (1.1.20621)
+  - GRKOpenSSLFramework (1.0.2.16)
+  - HKDFKit (0.0.4):
+    - CocoaLumberjack
+    - SignalCoreKit
+  - IQKeyboardManager (6.1.1)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.6)
+  - ReactiveObjC (3.1.0)
+  - SDWebImage (5.0.3):
+    - SDWebImage/Core (= 5.0.3)
+  - SDWebImage/Core (5.0.3)
+  - SignalCoreKit (1.0.0):
+    - CocoaLumberjack
+    - GRKOpenSSLFramework
+  - SocketRocket (0.5.1)
+  - SwiftProtobuf (1.5.0)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking (= 3.2.1)
+  - AxolotlKit (from `https://github.com/signalapp/SignalProtocolKit.git`, branch `master`)
+  - Bugly (= 2.5.0)
+  - CocoaAsyncSocket (= 7.6.3)
+  - Curve25519Kit (from `https://github.com/signalapp/Curve25519Kit`)
+  - FMDB (= 2.7.2)
+  - GoogleMaps (= 2.7.0)
+  - GooglePlacePicker (= 2.7.0)
+  - GooglePlaces (= 2.7.0)
+  - GoogleWebRTC (= 1.1.20621)
+  - HKDFKit (from `https://github.com/signalapp/HKDFKit.git`)
+  - IQKeyboardManager (= 6.1.1)
+  - Masonry (= 1.1.0)
+  - MBProgressHUD (= 1.1.0)
+  - MJExtension (= 3.0.15.1)
+  - MJRefresh (= 3.1.15.6)
+  - ReactiveObjC (= 3.1.0)
+  - SDWebImage (= 5.0.3)
+  - SignalCoreKit (from `https://github.com/signalapp/SignalCoreKit.git`)
+  - SocketRocket (= 0.5.1)
+  - YYImage (= 1.0.4)
+  - YYText (= 1.0.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Bugly
+    - CocoaAsyncSocket
+    - CocoaLumberjack
+    - FMDB
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - GoogleWebRTC
+    - GRKOpenSSLFramework
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - ReactiveObjC
+    - SDWebImage
+    - SocketRocket
+    - SwiftProtobuf
+    - YYImage
+    - YYText
+
+EXTERNAL SOURCES:
+  AxolotlKit:
+    :branch: master
+    :git: https://github.com/signalapp/SignalProtocolKit.git
+  Curve25519Kit:
+    :git: https://github.com/signalapp/Curve25519Kit
+  HKDFKit:
+    :git: https://github.com/signalapp/HKDFKit.git
+  SignalCoreKit:
+    :git: https://github.com/signalapp/SignalCoreKit.git
+
+CHECKOUT OPTIONS:
+  AxolotlKit:
+    :commit: 9bdcbaade2d98af9196a8526cb9042fead1d3ced
+    :git: https://github.com/signalapp/SignalProtocolKit.git
+  Curve25519Kit:
+    :commit: 9e5663baf4c2c7cb68ac4c0beb0423383c19a7fe
+    :git: https://github.com/signalapp/Curve25519Kit
+  HKDFKit:
+    :commit: 3e0c2371d125f2d3db26daa498d5d436961b1795
+    :git: https://github.com/signalapp/HKDFKit.git
+  SignalCoreKit:
+    :commit: b9dd2f85c4746b41bb9c9e6993e886aa3b1cf728
+    :git: https://github.com/signalapp/SignalCoreKit.git
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AxolotlKit: bb02741a93400b915df1be3365ad13d3768b0103
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
+  Curve25519Kit: b3e77b7152ebe95fee2b3fb6c955449492bc14f7
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlacePicker: 59ea44db173c58486ad6123993e81feefcbce9c3
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  GoogleWebRTC: bdc7453b450d0970aee538b1297f670d7234a0b1
+  GRKOpenSSLFramework: 35944e317e6336b2944ad70b059d84db6b2d8532
+  HKDFKit: 3b6dbbb9d59c221cc6c52c3aa915700cbf24e376
+  IQKeyboardManager: 79c57795f5c2408d259d37b9da2ed07efcbb5225
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: 0efa19656679d70a0f47cbe76e56c2271fe53a97
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SDWebImage: d4f87d7d36c8a4d9f9459dc282e0caa057fdf935
+  SignalCoreKit: c2d8132cdedb95d35eb2f8ae7eac0957695d0a8b
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SwiftProtobuf: 241400280f912735c1e1b9fe675fdd2c6c4d42e2
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 5f29819f1ab74dc2dce105b0a9cfcdd670977ce0
+
+COCOAPODS: 1.7.1

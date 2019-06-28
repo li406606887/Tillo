@@ -1,0 +1,422 @@
+/* 
+  Language.strings
+  T-Shion
+
+  Created by together on 2018/12/18.
+  Copyright © 2018年 With_Dream. All rights reserved.
+*/
+//================ 常用操作语 ====================
+"Cancel" = "取消";
+"Confirm" = "确认";
+"Tips" = "提示";
+"Done" = "完成";
+"Delete" = "删除";
+"Copy" = "拷贝";
+"Copy" = "拷贝";
+"Modify" = "修改";
+"Submit" = "提交";
+"Add" = "添加";
+"Add_Into_Contact" = "添加到联系人";
+"Agree" = "同意";
+"Agreed" = "已同意";
+"Send" = "发送";
+"Invite" = "邀请";
+"You" = "你";
+"voice" = "声音";
+"shock" = "震动";
+//删除群成员操作语
+"I_removed" = "你将";
+//被移除成员操作语
+"been_removed" = "你被";
+//成为新群主
+"tobe_group_manager" = "已成为新群主";
+//开启邀请确认
+"open_invite_switch" = "群主已启用“群聊邀请确认”";
+//关闭邀请确认
+"close_invite_switch" = "群主已关闭“群聊邀请确认”";
+
+"from_the_group" = "移出群";
+
+"Save_picture" = "保存图片";
+//转让群提示
+"transfer_tips" = "确认将群管理权限转让给";
+
+"group_invite_swich_tips" = "群管理员已开启加入群聊需要确认功能，群二维码邀请方式已失效。";
+
+"group_qrcode_tips" = "7日内有效，重新进入获取新的二维码";
+//================ 导航栏标题 ====================
+"home_navigation_title" = "聊天";
+"friend_navigation_title" = "联系人";
+"set_navigation_title" = "设置";
+"Invite_friends" = "邀请好友";
+"friend_group_chat_title" = "群聊";
+"Group_name" = "群聊名称";
+"Group" = "的群";
+"group_member_title" = "群成员";
+"Set_remarks" = "设置备注";
+"View" = "预览";
+"Country_code" = "国家代码";
+"Down_link" = "下载链接";
+"Chat_record" = "聊天记录";
+"More_record" = "更多记录";
+"Chat_file" = "聊天文件";
+
+//================ 首页菜单栏 ====================
+"friend_add_friend_title" = "添加好友";
+
+//================ 单聊 ====================
+"Remarks" = "备注";
+"Report" = "投诉";//投诉
+"Shield" = "屏蔽";
+"Do_not_disturb" = "消息免打扰";
+"Delete_All_Message" = "清空聊天记录";
+"Delete_friend" = "删除好友";
+"Sticky_on_top" = "置顶聊天";
+"BlockUser" = "加入黑名单";
+"unread_messages" = "条未读消息";
+//======转发======
+"Transmit" = "转发";
+"Transmit_Friend" = "从联系人选择";
+"Transmit_Select_Group" = "选择群聊";
+"Transmit_Recently" = "最近联系人";
+"Transmit_Contants" = "联系人";
+"Transmit_A_Group" = "选择一个群";
+"Contact_card" = "个人名片";
+//================ 群聊 ====================
+"Create_Group" = "创建群聊";
+"Add_Member" = "添加成员";
+"Delete_Member" = "删除成员";
+"Select_contacts" = "选择联系人";
+"New_group_chat" = "发起群聊";
+"Group" = "群组";
+"Member" = "成员";
+"Group_Setting" = "群聊设置";
+"Edit_Group_Name" = "修改群聊名称";
+
+"Exit_group" = "退出群组";
+"Exit_group_tips" = "确认删除并退出";
+"Group_avatar" = "群头像";
+
+//================ 设置 ====================
+"AccountManagement" = "重置密码";
+"NotifySet" = "通知管理";
+"down_set_title" = "照片、视频和文件";
+"Set_password" = "重置密码";
+"BlackUserList" = "黑名单";
+"Languages" = "语言选择";
+"Storage" = "存储空间";
+"Feedback" = "问题反馈";
+"Feedback_Tip" = "(当天仅限提交三次)";
+"Feedback_Success" = "反馈成功";
+"About_Aillo" = "关于Aillo";
+"setting" = "设置";
+"set_login_out_title" = "退出登录";
+"about_tillo_service_title" = "Tillo服务条款";
+"Clean_file_cache" = "清除文件缓存";
+"Remove_BlackUser" = "解除黑名单";
+"lookFor_msg_asset" = "图片和视频";
+"lookFor_msg_file" = "文件";
+"qr_code" = "群二维码";
+"group_manage" = "群管理";
+"lookfor_chat_msg" = "查找聊天记录";
+"lookfor_chat_file" = "查找聊天文件";
+"my_name_in_group" = "我在本群昵称";
+"invitation_confirmation" = "群聊邀请确认";
+"administrator_transfer" = "群管理员转让";
+"choose_manager" = "选择群管理员";
+"group_invite_way_prompt" = "开启“群聊邀请确认”后，新成员加入群聊需要经过群管理员确认，同时群二维码邀请方式失效。";
+"Clear_Delete_Session" = "确定删除聊天会话吗?";
+"delete_friend_verification" = "确定要删除此条信息吗？";
+"pthoto" = "照片";
+"video" = "视频";
+"file" = "文件";
+"card" = "名片";
+"location" = "位置";
+"Automatic_download" = "自动下载";
+"Auto_save" = "自动保存在手机相册";
+"close" = "关闭";
+"wifi" = "Wi-Fi";
+"wifi_cellular_network" = "Wi-Fi和蜂窝移动网络";
+"view_group_members" = "查看更多成员";
+//================ 通知管理 ====================
+"Receiving_Message_Notify" = "接收消息通知";
+"Receiving_Message_Notify_describe" = "关闭后，通知栏、锁屏将不显示消息通知";
+"Lock_screen" = "锁屏显示详情";
+"Lock_screen_details" = "关闭后，锁屏将不显示消息内容和发信人";
+"Receiving_Audio_Video_Reminders" = "接收音视频通话提醒";
+"Receiving_Audio_Video_Reminders_details" = "关闭后，通知栏、锁屏将不显示音视频通话提醒";
+"Reset_notification_settings" = "重置通知设置";
+"System_notify_seting" = "系统通知设置";
+"System_notify_seting_details" = "打开系统设置对通知进行修改";
+"notify_set_default_tips" = "确认将通知设置为默认吗？";
+//================ 联系人 ====================
+"Phone_Number" = "手机号";
+"search_placeholder" = "搜索...";
+"search_placeholder_phone" = "输入手机号添加好友";
+
+
+//================== 时间提示语 ==================
+"Just_now" = "Just now";
+"minutes_ago" = "minutes ago";
+"AM" = "am";
+"PM" = "pm";
+"Yesterday" = "Yesterday";
+"new_msg_prompt" = "以下是新消息";
+//================== 系统提示话术 ==================
+"Complaint_successful" = "投诉成功,感谢您的投诉";//Complaint is successful, thank you for your complaint
+"Copied_link" = "已复制链接";
+"Upload_Fail" = "上传失败";
+"Please_select_what_you_want_to_report" = "请选择您要举报的内容";
+"Please_enter_what_you_want_to_feedback" = "请输入您要反馈的内容";
+"Please_select_at_least_two_members" = "请至少选择两位群成员";
+"Please_select_the_person_you_want_to_delete" = "请选择您要删除的人";
+"Please_enter_the_correct_group_name" = "请输入正确的群名称";
+"Please_select_the_group_member_you_want_to_add" = "请选择您要添加的群成员";
+"passWord_short" = "请输入不少于6位数的密码";
+"Verification_code_error" = "请输入正确的验证码";
+"Two_passwords_are_inconsistent" = "两次密码不一致";
+"down_app_link" = "欢迎使用Aillo，随时随地与家人朋友沟通联系，请至https://dl.aillo.cc/ 立即免费下载。";
+"Pass_Friend_Message" = "我已通过你的好友请求";
+"Tips" = "温馨提示";
+"Tips_Copy" = "已复制";
+
+"Tips_KickUser" = "您的帐号在另外一台设备登录了";
+"Tips_Unauthorized" = "登录过期，请重新登录";
+"No_User" = "账号不存在";
+
+//================== 投诉话术 ==================
+"Harassment" = "传播不适内容对我造成骚扰";
+"Fraud" = "通过各种理由骗取信息";
+"Spreading_rumours" = "发表不当言论";
+"Violations" = "存在违反服务条款或隐私声明等行为";
+"Other" = "其他";
+//================== 登录&注册 ==================
+"please_enter_phone_number" = "请输入您的手机号";
+"Please_enter_your_password" = "请输入您的密码";//请输入你的密码
+"Please_confirm_your_password" = "请确认您的密码";//请输入你的密码
+"login" = "登录";//登录
+"Forgot_password" = "忘记密码?";//忘记密码
+"No_Account" = "没有账户?请注册";//没有账户
+"Please_register" = "请注册";//请注册
+"please_enter_verification_code" = "请输入您收到的验证码";//验证码
+"send_verification_code" = "发送验证码";//验证码
+"register" = "注册";//注册登录失败
+"Login_fail" = "登录失败";//
+"Retrieve_password" = "找回密码";//
+"there_was_account" = "已有账户？去登录";
+"go_login" = "去登录";
+"Invitation_link" = "邀请链接";
+"Address_book" = "手机通讯录";
+"whatsApp" = "Whatsapp";
+"weChat" = "微信邀请";
+"copLink" = "复制链接";
+"Invitation_register" = "邀请注册";
+"Voip_NewFried" = "您有一条新的好友请求";
+
+"login_title" = "请输入帐号密码";//登录
+"register_title" = "欢迎来到Aillo";//注册标题
+
+"verification_second" = "秒";
+
+//================== 登录注册 ==================、
+"login_tip_logining" = "正在登录";
+"register_tip_registering" = "正在注册";
+"register_tip_getcode" = "正在获取验证码";
+"register_agreement" = "注册即表示你同意我们的《服务条款》和《隐私说明》";
+"register_termsOfService" = "《服务条款》";
+"register_privacyPolicy" = "《隐私说明》";
+"register_dialCode" = "国际电话区号";
+
+//================== 语音发送提示 ==================
+"Release_to_cancel" = "手指松开,取消发送";
+"Slide_up_to_cancel" = "手指上滑取消，松开即可发送";
+"Message_too_short" = "录制时间太短";
+
+//================== 图片选取 ==================
+"PhotoPicker_Library" = "相册中选取";
+"PhotoPicker_Camera" = "相机拍照";
+
+//================== 聊天 ==================
+"Chat_Msg_IMG" = "[图片]";
+"Chat_Msg_Voice" = "[语音]";
+"Chat_Msg_File" = "[文件]";
+"Chat_Msg_Localtion" = "[位置]";
+"Chat_Msg_Video" = "[视频]";
+"Chat_Msg_Mentioned" = "[有人@我] ";
+"Chat_Msg_Draft" = "[草稿]";
+"Chat_Msg_Card" = "[名片]";
+"Chat_Msg_Unknow" = "[未知消息类型]";
+"Chat_Msg_UnknowInfo" = "当前版本暂不支持查看此消息";
+"Chat_Msg_PassFriend" = "我通过你的朋友验证请求，现在我们可以开始聊天了";
+"Join_Room" = "加入群";
+"Withdraw" = "撤回";
+"Self_Withdraw" = "你撤回了一条消息";
+"other_Withdraw" = "撤回了一条消息";
+"friend_Withdraw" = "对方撤回了一条消息";
+"Msg_Been_Withdrawn" = "消息已被撤回";
+"find" = "找到";
+"relevant_records" = "条相关记录";
+"Invite_switch_open_tips" = "群主已启用“群聊邀请确认”，群成员需群主确认才能邀请朋友进群";
+"Invite_switch_close_tips" = "群主已关闭“群聊邀请确认”";
+"Have_New_message" = "你有一条新消息";
+//================== 个人资料 ==================
+"UserInfo_Setting" = "个人资料";
+"UserInfo_Avatar" = "头像";
+"UserInfo_Sex" = "性别";
+"UserInfo_NickName" = "名字";
+"UserInfo_Man" = "男";
+"UserInfo_Woman" = "女";
+"UserInfo_Phone" = "帐号";
+"UserInfo_Signature" = "个性签名";
+"UserInfo_Address" = "地区";
+"UserInfo_Done" = "完成";
+"setting_sex" = "设置性别";
+
+"UserInfo_Account" = "帐号";
+"UserInfo_Unknow" = "未知";
+"Identify_The_Qrcode" = "识别二维码";
+"UserInfo_QRCode_Title" = "我的二维码";
+"UserInfo_QRCode_Save" = "保存图片";
+"UserInfo_QRCode_Tip" = "扫一扫上面二维码,加我";
+"UserInfo_QRCode_Success" = "保存成功";
+"UserInfo_Stranger" = "查看用户信息";
+"UserInfo_Verification" = "验证信息";
+"UserInfo_Verification_Tip" = "对方需要你填写验证信息";
+"UserInfo_Verification_IM" = "我是";
+"UserInfo_Verification_Success" = "发送成功";
+
+"OthersInfo_NickName" = "昵称";
+
+
+
+//================== 设置 ==================
+"set_pwd_old" = "旧密码";
+"set_pwd_new" = "新密码";
+"set_pwd_confirmAgain" = "确认密码";
+"set_pwd_confirmAgain_placeholder" = "再次输入新密码";
+"set_pwd_tip_1" = "新密码不能与旧密码一致";
+"set_pwd_tip_2" = "确认密码与新密码不一致";
+"set_pwd_tip_3" = "修改成功";
+"set_pwd_tip_4" = "密码不能少于6位数";
+
+"set_storage_clean" = "清理文件缓存";
+"set_storage_clean_success" = "清除缓存成功";
+"set_about_email" = "联系邮箱";
+"set_placeholder" = "请输入...";
+
+
+//================== 扫一扫 ==================
+"scan_title" = "扫一扫";
+"scan_photo" = "相册";
+"scan_tip" = "将二维码/条码放入框内，即可自动扫描";
+"scan_error" = "扫描识别失败";
+
+"scan_group_info" = "群聊信息";
+"scan_group_tip_verify" = "该群已开启进群验证 只可通过邀请进群";
+"scan_group_tip_pastDue" = "二维码已过期";
+"scan_group_tip_leave" = "该二维码分享者已离开群聊，无法加入";
+"scan_group_join" = "加入群聊";
+
+"scan_group_join_tip" = "“%@”通过“%@”分享的二维码加入群聊";
+"scan_group_self_join_tip" = "你通过扫描二维码加入群聊,群聊参与人还有: %@";
+
+
+//================== RTC ==================
+
+//RTC连接状态
+"RTC_Dialing" = "拨号中...";
+"RTC_Joining" = "加入房间中...";
+"RTC_Calling_Audio_Caller" = "呼叫中...";
+"RTC_Calling_Audio_Callee" = "邀请你语音通话...";
+"RTC_Calling_Video_Caller" = "正在等待对方接受邀请...";
+"RTC_Calling_Video_Callee" = "邀请你视频通话...";
+"RTC_Connecting" = "连接中";
+"RTC_Connected" = "已连接";
+"RTC_Connect_Error" = "连接失败";
+"RTC_Dialing_Error" = "拨号失败";
+
+//RTC操作按钮
+"RTC_Btn_Hangup" = "挂断";
+"RTC_Btn_Refuse" = "拒绝";
+"RTC_Btn_Accept" = "接听";
+"RTC_Btn_SwapAudio" = "切换到语音通话";
+"RTC_Btn_Mute" = "静音";
+"RTC_Btn_HF" = "免提";
+"RTC_Btn_SwitchCamera" = "切换摄像头";
+
+//提示语
+"RTC_Tip_BusyReceiver" = "对方忙线";
+"RTC_Tip_DialError" = "拨号失败";
+"RTC_Tip_ConnectingError" = "连接超时";
+"RTC_Tip_Disconnect" = "通话异常断开连接";
+"RTC_Tip_Cannel" = "通话已取消";
+"RTC_Tip_Close" = "通话结束";
+"RTC_Tip_OthersRefuse" = "对方拒绝了你的通话邀请";
+"RTC_Tip_OthersCancel" = "对方已挂断,结束通话";
+"RTC_Tip_PhoneNoAround" = "对方手机可能不在身边,请稍后再试";
+"RTC_Tip_NoAnswer" = "对方无应答";
+"RTC_Tip_UserBeDelete" = "对方已将您删除好友";
+"RTC_Tip_Voip" = "邀请你进行通话...";
+
+
+//RTC消息记录
+"RTC_Msg_Video" = "[视频通话]";
+"RTC_Msg_Audio" = "[语音通话]";
+"RTC_Msg_Durtion" = "通话时长";
+"RTC_Msg_YourCancel" = "已取消";
+"RTC_Msg_OthersCancel" = "对方已取消";
+"RTC_Msg_YourRefuse" = "已拒绝";
+"RTC_Msg_OthersRefuse" = "对方已拒绝";
+"RTC_Msg_BusyReceiver" = "对方忙线";
+"RTC_Msg_NoAnswer" = "对方无应答";
+"RTC_Msg_DialingError" = "拨号失败";
+
+
+
+
+//================== 日期相关 ==================
+"date_yesterday" = "昨天";
+"date_mon" = "星期一";
+"date_tue" = "星期二";
+"date_wed" = "星期三";
+"date_thu" = "星期四";
+"date_fri" = "星期五";
+"date_sat" = "星期六";
+"date_sun" = "星期日";
+
+"date_am" = "上午";
+"date_pm" = "下午";
+"date_now" = "刚刚";
+
+
+
+//================== 加密相关 ==================
+"crypt_verify_code" = "加密验证";
+"crypt_scan_qrcode" = "扫描二维码";
+"crypt_verity_tip" = "扫描联系人手机上的二维码或请他们扫描您的二维码来验证信息和通话都进行了端对端的加密。此外，您们可以互相核对上面的编码来验证。";
+"crypt_scan" = "扫码";
+"crypt_create_single" = "发起加密聊天";
+"crypt_create_group" = "发起加密群聊";
+"crypt_start_single" = "发起加密聊天";
+"crypt_start_group" = "发起加密群聊";
+"crypt_invite_tip" = "你邀请“%@”进入加密聊天";
+"crypt_invited_tip" = "“%@”邀请你进入加密聊天";
+"crypt_tip1" = "· 使用端对端加密，不在服务器保留消息";
+"crypt_tip2" = "· 消息销毁时间可设置";
+"crypt_tip3" = "· 消息禁止复制和转发";
+"crypt_tip4" = "· 聊天界面禁止截屏（iOS系统截屏提醒）";
+"crypt_self_shot_tip" = "你已截屏";
+"crypt_other_shot_tip" = "“%@”已截屏";
+"crypt_self_set_time_tip" = "你将消息自动销毁时间设为%ld秒";
+"crypt_other_set_time_tip" = "“%@”将消息自动销毁时间设为%ld秒";
+"crypt_verify_code_fail" = "加密验证失败，请确认是否打开同一个会话的“加密验证编码”";
+"crypt_push_body" = "您收到一条私密消息";
+"crypt_join_group" = "加入加密群聊";
+"crypt_scan_group_join_tip" = "“%@”通过“%@”分享的二维码加入加密群聊";
+"crypt_scan_group_self_join_tip" = "你通过扫描二维码加入加密群聊,群聊参与人还有: %@";
+
+
+//================== 图片视频相关 ==================
+"imageBrowser_save_video_tip" = "保存视频到本地相册";
+"imageBrowser_save_success" = "保存成功";
+"imageBrowser_save_fail" = "保存失败";

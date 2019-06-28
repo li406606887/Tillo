@@ -1,0 +1,409 @@
+/* 
+  Language.strings
+  T-Shion
+
+  Created by together on 2018/12/18.
+  Copyright © 2018年 With_Dream. All rights reserved.
+*/
+//================ 常用操作语 ====================
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"Done" = "Done";
+"Tips" = "Tips";
+"Delete" = "Delete";
+"Copy" = "Copy";
+"Modify" = "Modify";
+"Submit" = "Submit";
+"Agree" = "Agree";
+"Add" = "Add";
+"Add_Into_Contact" = "Add to Contacts";
+"Agreed" = "Agreed";
+"Send" = "Send";
+"Invite" = " Invite ";
+"You" = "you";
+"voice" = "voice";
+"shock" = "shock";
+//删除群成员操作语
+"I_removed" = "I removed ";
+//被移除成员操作语
+"been_removed" = "You've been removed ";
+//成为新群主
+"tobe_group_manager" = "become new manager";
+//开启邀请确认
+"open_invite_switch" = "Group owner has enabled “Group Chat Invitation Confirmation”";
+//关闭邀请确认
+"close_invite_switch" = "The default entry mode has been restored by the group owner";
+
+"from_the_group" = " from the group";
+"Save_picture" = "Save";
+"transfer_tips" = "Do you confirm the transfer of group management authority to";
+"group_invite_swich_tips" = "The group administrator has turned on the confirmation function to join the group chat, and the group two-dimensional code invitation mode has expired.";
+"group_qrcode_tips" = "Effective within 7 days, re-enter to acquire new two-dimensional codes";
+//================ 导航栏标题 ====================
+"home_navigation_title" = "Chats";
+"friend_navigation_title" = "Contacts";
+"set_navigation_title" = "Set";
+"Set_remarks" = "Set remarks";
+"friend_add_friend_title" = "Add contacts";
+"Invite_friends" = "Invite friends";
+"friend_group_chat_title" = "Group Chat";
+"View" = "View";
+"Country_code" = "Country code";
+"Down_link" = "Down Link";
+"Chat_file" = "Chat file";
+
+//================ 首页菜单栏 ====================
+"New_group_chat" = "Group chat";
+
+//================ 单聊 ====================
+"setting_sex" = "Set gender";
+"setting" = "Setting";
+"Remarks" = "Remarks";
+"Sticky_on_top" = "Sticky on top";
+"Do_not_disturb" = "Mute";
+"Shield" = "Shield";
+"Delete_friend" = "Delete";
+"Delete_All_Message" = "Clear chat history";
+"Report" = "Report";//投诉
+"BlockUser" = "Block";
+"unread_messages" = " unread messages";
+//======转发======
+"Transmit" = "Send to Chat";
+"Transmit_Friend" = "Select from Contacts";
+"Transmit_Select_Group" = "Group chat";
+"Transmit_Recently" = "Recent Contacts";
+"Transmit_Contants" = "Contacts";
+"Transmit_A_Group" = "Choose a Group";
+"Contact_card" = "Contact Card";
+//================ 群聊 ====================
+"Group_name" = "Group name";
+"Group_avatar" = "Group avatar";
+"Group" = " Group";
+"group_member_title" = "Group member";
+"Delete_Member" = "Delete Member";
+"Edit_Group_Name" = "Edit group name";
+"Create_Group" = "Create Group";
+"Add_Member" = "Add Member";
+"Select_contacts" = "Select the contacts";
+"Exit_group_tips" = "Are you sure to delete and quit the";
+
+//================ 设置 ====================
+"AccountManagement" = "Set Password";
+"NotifySet" = "Notify Management";
+"Set_password" = "Set Password";
+"down_set_title" = "Photos, videos and documents";
+"Languages" = "Languages";
+"BlackUserList" = "BlackUser";
+"Storage" = "Storage";
+"Feedback" = "Feedback";
+"Feedback_Tip" = "Only submitted three times a day";
+"Feedback_Success" = "submit success";
+"About_Aillo" = "About Aillo";
+"set_login_out_title" = "Log Out";
+"Clean_file_cache" = "Clear the file cache";
+"about_tillo_service_title" = "Terms Service";
+"Remove_BlackUser" = "remove";
+"lookFor_msg_asset" = "Image And Video";
+"lookFor_msg_file" = "File";
+"qr_code" = "Qr code";
+"group_manage" = "group manage";
+"lookfor_chat_msg" = "Find chat history";
+"lookfor_chat_file" = "Find chat file";
+"my_name_in_group" = "My nickname in this group";
+"invitation_confirmation" = "Invitation Confirmation";
+"administrator_transfer" = "Administrator Transfer";
+"choose_manager" = "Choose Manager";
+"group_invite_way_prompt" = "The new member has to get the permission from the group chat administrator to join the group after the “Group chat Invitation Confirmation” turned on, and the group QR code is invalid at the same time.";
+"Clear_Delete_Session" = "Are you sure you want to delete the chat session?";
+"delete_friend_verification" = "Are you sure you want to delete this information?";
+"pthoto" = "Photo";
+"video" = "Video";
+"file" = "File";
+"card" = "Business Card";
+"location" = "Location";
+"Automatic_download" = "Automatic download";
+"Auto_save" = "Auto-save in mobile photo album";
+"close" = "Close";
+"wifi" = "Wi-Fi";
+"wifi_cellular_network" = "Wi-Fi and Cellular Mobile Network";
+"view_group_members" = "View more group members";
+//================ 通知管理 ====================
+"Receiving_Message_Notify" = "Receiving Message Notification";
+"Receiving_Message_Notify_describe" = "After closing, the notification bar and lock screen will not display the message notification.";
+"Lock_screen" = "Lock screen display details";
+"Lock_screen_details" = "After closing, the lock screen will not display the message content and the sender.";
+"Receiving_Audio_Video_Reminders" = "Receiving Audio and Video Call Reminders";
+"Receiving_Audio_Video_Reminders_details" = "After closing, the notification bar and lock screen will not display audio and video call reminders.";
+"Reset_notification_settings" = "Reset notification settings";
+"System_notify_seting" = "System notification settings";
+"System_notify_seting_details" = "Open system settings to modify notifications";
+"notify_set_default_tips" = "Do you confirm that the notification is set to default?";
+//================ 联系人 ====================
+"Phone_Number" = "Phone Number";
+"Group_Setting" = "Group Setting";
+"Exit_group" = "Exit Group";
+"Invitation_link" = "Invitation link";//
+"Address_book" = "Address Book";
+"whatsApp" = "Whatsapp";
+"weChat" = "WeChat";
+"copLink" = "Copy Link";
+"Invitation_register" = "Invitation register";
+"Voip_NewFried" = "You have a new friend request";
+"search_placeholder" = "Search...";
+"search_placeholder_phone" = "search phone to add friends";
+
+//================== 时间提示语 ==================
+"Just_now" = "Just now";
+"minutes_ago" = "minutes ago";
+"AM" = "am";
+"PM" = "pm";
+"Yesterday" = "Yesterday";
+"new_msg_prompt" = "Below are new message";
+
+//================== 系统提示话术 ==================
+"please_enter_phone_number" = "Phone number";//请输入手机号
+"Please_enter_your_password" = "Enter password";//请输入你的密码
+"Please_confirm_your_password" = "Please confirm your password";//请输入你的密码
+"Please_select_what_you_want_to_report" = "Please select what you want to report";
+"Please_enter_what_you_want_to_feedback" = "Please enter what you want to feedback";
+"Please_select_at_least_two_members" = "Please select at least two members";
+"Please_enter_the_correct_group_name" = "Please enter the correct group name";
+"Please_select_the_group_member_you_want_to_add" = "Please select the group member you want to add";
+"passWord_short" = "Please enter a password of no less than 6 digits";
+"Verification_code_error" = "Verification Code Error";
+"Two_passwords_are_inconsistent" = "Two passwords are inconsistent";
+
+"down_app_link" = "Thx for choosing Aillo, Aillo helps you make better communication with your family and friends anytime anywhere, plz go to website: https://dl.aillo.cc/ for free download";
+
+"Pass_Friend_Message" = "I have accepted your friend request";
+"Complaint_successful" = "Complaint is successful, thank you for your complaint";//投诉成功
+"Copied_link" = "Copied link";
+"Upload_Fail" = "Upload Fail";
+"Tips" = "Tips";
+"Tips_Copy" = "Copied";
+
+"Tips_KickUser" = "Your account is logged in on another device";
+"Tips_Unauthorized" = "Login expired, please log in again";
+
+"No_User" = "No account exists";
+//================== 登录&注册 ==================
+
+"login" = "Login";//登录
+"Login_fail" = "Login Fail";//登录失败
+"Forgot_password" = "Forgot password?";//忘记密码
+"No_Account" = "No account?Please register";//没有账户请注册
+"go_login" = "Login";//去登陆
+"Retrieve_password" = "Retrieve password";//确认密码
+"there_was_account" = "Existing account？Login";
+"register" = "Register";//注册
+"Please_register" = "Please register";//请注册
+"please_enter_verification_code" = "Verification code";//请输入验证码
+"send_verification_code" = "Send";//验证码
+
+"login_title" = "Login";//登录标题
+"register_title" = "Welcome Aillo";//注册标题
+
+"verification_second" = "s";
+
+//================== 投诉话术 ==================
+"Harassment" = "Lewd or harassing content";
+"Fraud" = "Fraud";
+"Spreading_rumours" = "Inappropriate remarks";
+"Violations" = "Violation of the Terms of Service or Privacy Statement";
+"Other" = "Other";
+//================== 语音发送提示 ==================
+"Release_to_cancel" = "Release to cancel";
+"Slide_up_to_cancel" = "Slide up to cancel";
+"Message_too_short" = "Message too short";
+
+
+//================== 登录注册 ==================、
+"login_tip_logining" = "logining";
+"register_tip_registering" = "registering";
+"register_tip_getcode" = "getting verification code";
+"register_agreement" = "Agree to Terms of Service and Privacy Policy by signing up";
+"register_termsOfService" = "Terms of Service";
+"register_privacyPolicy" = "Privacy Policy";
+"register_dialCode" = "Dial Code";
+
+//================== 图片选取 ==================
+"PhotoPicker_Library" = "Choose from album";
+"PhotoPicker_Camera" = "Take photo";
+
+//================== 聊天 ==================
+"Chat_Msg_IMG" = "[Photo]";
+"Chat_Msg_Voice" = "[Audio]";
+"Chat_Msg_File" = "[File]";
+"Chat_Msg_Localtion" = "[Position]";
+"Chat_Msg_Video" = "[Video]";
+"Chat_Msg_Mentioned" = "You were mentioned ";
+"Chat_Msg_Draft" = "[Draft]";
+"Chat_Msg_Card" = "[Business Card]";
+"Chat_Msg_Unknow" = "[Unknow Message]";
+"Chat_Msg_UnknowInfo" = "Unsupported message";
+"Chat_Msg_PassFriend" = "I verified the request through your friend, now we can start chatting";
+"Join_Room" = " join group";
+"Withdraw" = "withdraw";
+"Self_Withdraw" = "You withdraw a message";
+"other_Withdraw" = " withdraw a message";
+"friend_Withdraw" = "A message was withdrawn";
+"Msg_Been_Withdrawn" = "The message has been withdrawn";
+"find" = "Find ";
+"relevant_records" = " relevant records";
+"Chat_record" = "Chat Record";
+"More_record" = "More record";
+"Invite_switch_open_tips" = "Group owners has enabled “Group Chat Invitation Confirmation”. Group Members need group Master Confirmation to invite friends to join the group.";
+"Invite_switch_close_tips" = "Group owners have closed “group chat invitation confirmation”";
+//================== 个人资料 ==================
+"UserInfo_Setting" = "UserInfo";
+"UserInfo_Avatar" = "Profile photo";
+"UserInfo_Sex" = "Gender";
+"UserInfo_NickName" = "NickName";
+"UserInfo_Man" = "Male";
+"UserInfo_Woman" = "Female";
+"UserInfo_Phone" = "Account";
+"UserInfo_Signature" = "Add your bio";
+"UserInfo_Address" = "Region";
+"UserInfo_Done" = "Done";
+
+"UserInfo_Account" = "Account";
+"UserInfo_Unknow" = "unknow";
+"Identify_The_Qrcode" = "Identify the qr code";
+"UserInfo_QRCode_Title" = "My QRCode";
+"UserInfo_QRCode_Save" = "Save";
+"UserInfo_QRCode_Tip" = "Scan qr code, add me";
+"UserInfo_QRCode_Success" = "save success";
+"UserInfo_Stranger" = "UserInfo";
+"UserInfo_Verification" = "Verification";
+"UserInfo_Verification_Tip" = "You need to fill in the verification information";
+"UserInfo_Verification_IM" = "I'm ";
+"UserInfo_Verification_Success" = "send success";
+"OthersInfo_NickName" = "NickName";
+"Have_New_message" = "You have a new message";
+//================== 设置 ==================
+"set_pwd_old" = "Old Pwd";
+"set_pwd_new" = "New Pwd";
+"set_pwd_confirmAgain" = "ConfirmAgain";
+"set_pwd_confirmAgain_placeholder" = "ConfirmAgain";
+"set_pwd_tip_1" = "The new password cannot match the old one";
+"set_pwd_tip_2" = "The two password entries are different";
+"set_pwd_tip_3" = "Modify the success";
+"set_pwd_tip_4" = "Password cannot be less than 6 digits";
+
+"set_storage_clean" = "Clean Storage";
+"set_storage_clean_success" = "clean success";
+"set_about_email" = "Contact E-mail";
+
+"set_placeholder" = "please enter...";
+
+//================== 扫一扫 ==================
+"scan_title" = "Scan";
+"scan_photo" = "Album";
+"scan_tip" = "Put qr code into box and it can scanned automatically";
+"scan_error" = "scan fail";
+
+"scan_group_info" = "Group Info";
+"scan_group_tip_verify" = "Group verification is enabled for this group.You can only join this group by invitation.";
+"scan_group_tip_pastDue" = "QR code has expired";
+"scan_group_tip_leave" = "QR Code is invalid as sharer has quit group.Unable to scan and join group.";
+"scan_group_join" = "join";
+
+"scan_group_join_tip" = "\"%@\" joined the group chat via the QR Code shared by \"%@\" ";
+
+"scan_group_self_join_tip" = "You've joined the group chat via QR code.Group chat members: %@";
+
+//================== RTC ==================
+
+//RTC连接状态
+"RTC_Dialing" = "Dialing...";
+"RTC_Joining" = "Join...";
+"RTC_Calling_Audio_Caller" = "Calling...";
+"RTC_Calling_Audio_Callee" = "You’re invited to make a voice call";
+"RTC_Calling_Video_Caller" = "Waiting to be answered...";
+"RTC_Calling_Video_Callee" = "You’re invited to make a video cal...";
+"RTC_Connecting" = "Connecting";
+"RTC_Connected" = "Connected";
+"RTC_Connect_Error" = "Connecting error";
+"RTC_Dialing_Error" = "Dialing error";
+
+//RTC操作按钮
+"RTC_Btn_Hangup" = "Hang up";
+"RTC_Btn_Refuse" = "Decline";
+"RTC_Btn_Accept" = "Answer";
+"RTC_Btn_SwapAudio" = "Switched to voice call";
+"RTC_Btn_Mute" = "Mute";
+"RTC_Btn_HF" = "Speaker";
+"RTC_Btn_SwitchCamera" = "Switch camera";
+
+//提示语
+"RTC_Tip_BusyReceiver" = "The other was busy";
+"RTC_Tip_DialError" = "Dial-up failure";
+"RTC_Tip_ConnectingError" = "Connecting failure";
+"RTC_Tip_Disconnect" = "The call abnormal disconnect";
+"RTC_Tip_Cannel" = "The call had cancel";
+"RTC_Tip_Close" = "The call end";
+"RTC_Tip_OthersRefuse" = "Your call was turned down";
+"RTC_Tip_OthersCancel" = "Caller hung up, the call ends";
+"RTC_Tip_PhoneNoAround" = "Other's mobile may not be around, please try again later";
+"RTC_Tip_UserBeDelete" = "You have been defriended";
+"RTC_Tip_Voip" = " invite you to chat...";
+"RTC_Tip_NoAnswer" = "Other party no answer";
+
+//RTC消息记录
+"RTC_Msg_Video" = "[Video Call]";
+"RTC_Msg_Audio" = "[Audio Call]";
+"RTC_Msg_Durtion" = "Call Durtion";
+"RTC_Msg_YourCancel" = "Canceled";
+"RTC_Msg_OthersCancel" = "Other party has cancelled";
+"RTC_Msg_YourRefuse" = "Refused";
+"RTC_Msg_OthersRefuse" = "Other party has refused";
+"RTC_Msg_BusyReceiver" = "The other was busy";
+"RTC_Msg_NoAnswer" = "No answer";
+"RTC_Msg_DialingError" = "Dialing error";
+
+
+
+//================== 日期相关 ==================
+"date_yesterday" = "Yesterday";
+"date_mon" = "Monday";
+"date_tue" = "Tuesday";
+"date_wed" = "Wednesday";
+"date_thu" = "Thursday";
+"date_fri" = "Friday";
+"date_sat" = "Saturday";
+"date_sun" = "Sunday";
+
+"date_am" = "AM";
+"date_pm" = "PM";
+"date_now" = "Just now";
+
+
+//================== 加密相关 ==================
+"crypt_verify_code" = "Encryption verification";
+"crypt_scan_qrcode" = "Scan Code";
+"crypt_verity_tip" = "Scan the QR code on your contact's phone or ask them to scan your QR code to verify that the information is encrypted end-to-end. In addition, you can check each other's code to verify.";
+"crypt_scan" = "Scan Code";
+"crypt_create_single" = "New Secret Chat";
+"crypt_create_group" = "New Secret Group Chat";
+"crypt_start_single" = "Start Secret Chat";
+"crypt_start_group" = "Start Secret Group Chat";
+"crypt_invite_tip" = "You invite \"%@\" to the encrypted chat";
+"crypt_invited_tip" = "\"%@\" invite you to the encrypted chat";
+"crypt_tip1" = "· End-to-end encryption, no messages will be kept on the server";
+"crypt_tip2" = "· Message purge time is adjustable";
+"crypt_tip3" = "· Messages are prohibited from copying and forwarding";
+"crypt_tip4" = "· Screenshot on chat interface is prohibited（iOS system screenshot reminder）";
+"crypt_self_shot_tip" = "You have taken a screenshot";
+"crypt_other_shot_tip" = "\"%@\" has taken a screenshot";
+"crypt_self_set_time_tip" = "You have set the message auto-purge time to %ld seconds";
+"crypt_other_set_time_tip" = "\"%@\" has set the message auto-purge time to %ld seconds";
+"crypt_push_body" = "You receive an encrypted message";
+"crypt_join_group" = "join encrypted room";
+"crypt_scan_group_join_tip" = "\"%@\" joined the encryption group chat via the QR Code shared by \"%@\" ";
+"crypt_scan_group_self_join_tip" = "You've joined the encryption group chat via QR code.Group chat members: %@";
+
+
+//================== 图片视频相关 ==================
+"imageBrowser_save_video_tip" = "Save video to album";
+"imageBrowser_save_success" = "Save success";
+"imageBrowser_save_fail" = "Save failed";
